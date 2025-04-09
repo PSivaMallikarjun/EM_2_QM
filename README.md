@@ -45,7 +45,7 @@ To run the project locally, follow these steps:
    ```
 
 5. **Access the Gradio Interface**
-   - The application will launch in your web browser at `http://127.0.0.1:7860/`
+   - The application will launch in your web browser at `auto generated URL`
 
 ## **How to Use**
 1. Select the **problem type** (e.g., beam load, truss analysis).
